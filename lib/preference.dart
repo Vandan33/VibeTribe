@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:vibe_tribe/login.dart';
 import 'package:vibe_tribe/home.dart';
+import 'package:vibe_tribe/map.dart';
 class preference extends StatefulWidget {
   const preference({super.key});
 

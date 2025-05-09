@@ -1,0 +1,2 @@
+E:/Flutter Project/vibe_tribe/android/app/.cxx/Debug/5z2y1u5v/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/Flutter Project/vibe_tribe/android/app/.cxx/Debug/5z2y1u5v/armeabi-v7a/CMakeFiles/rebuild_cache.dir
